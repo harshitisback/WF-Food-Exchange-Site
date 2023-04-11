@@ -58,7 +58,5 @@ const middleware = {
 		}
 		next();
 	}
-	
 }
-
 module.exports = middleware;
